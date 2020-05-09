@@ -1,0 +1,72 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+.vs/Dev/v16/.suo
+.vs/Dev/v16/Server/sqlite3/db.lock
+.vs/Dev/v16/Server/sqlite3/storage.ide
+.vs/Dev/v16/Server/sqlite3/storage.ide-shm
+.vs/Dev/v16/Server/sqlite3/storage.ide-wal
+bin/Debug/Dalamud.xml
+bin/Debug/Discord.Net.Core.xml
+bin/Debug/Discord.Net.Rest.xml
+bin/Debug/Discord.Net.WebSocket.xml
+bin/Debug/SDL2-CS.dll.config
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/Dev.csproj.CopyComplete
+obj/Debug/Dev.csproj.FileListAbsolute.txt
+obj/Debug/Dev.csprojAssemblyReference.cache
+obj/Dev.csproj.nuget.cache
+obj/Dev.csproj.nuget.dgspec.json
+obj/Dev.csproj.nuget.g.props
+obj/Dev.csproj.nuget.g.targets
+obj/project.assets.json
+Properties/AssemblyInfo.cs
